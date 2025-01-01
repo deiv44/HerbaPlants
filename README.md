@@ -9,7 +9,6 @@ Herba Plant is an innovative mobile application crafted with **Flutter** and **D
 - **Comprehensive Herb Database**: Access detailed information about a wide variety of medicinal plants.
 - **User-Friendly Interface**: Seamlessly browse and search through the plant catalog.
 - **Interactive Visuals**: High-quality images for better plant identification.
-- **Offline Mode**: Access plant data even without an internet connection.
 - **Customizable Favorites**: Save frequently viewed herbs for quick access.
 - **Multi-Language Support**: Designed for a global audience with diverse language options.
 
@@ -18,7 +17,7 @@ Herba Plant is an innovative mobile application crafted with **Flutter** and **D
 ## 🛠️ Technologies Used
 
 ### Framework:
-- **[Flutter](https://flutter.dev/)**: A powerful open-source UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **[Flutter](https://flutter.dev/)**: A powerful open-source UI toolkit for building natively compiled mobile, web, and desktop applications from a single codebase.
 
 ### Programming Language:
 - **Dart**: A robust, scalable, and type-safe programming language optimized for client-side development.
@@ -88,7 +87,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 - **Your Name** - *Project Lead and Developer*
 
-For any inquiries, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact [kede.leones.up@phinmaed.com](kede.leones.up@phinmaed.com).
 
 ---
 
@@ -108,7 +107,7 @@ Special thanks to the open-source community and the Flutter team for providing i
 
 - [Flutter Documentation](https://flutter.dev/docs)
 - [Dart Language Guide](https://dart.dev/guides)
-- [Herba Plant Repository](https://github.com/your-username/herba-plant)
+- [Herba Plant Repository](https://github.com/deiv44/HerbaPlants)
 
 ---
 
