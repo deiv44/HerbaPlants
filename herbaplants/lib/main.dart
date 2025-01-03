@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'frontend/user/home/Homeuser.dart'; // Update the path if needed
+import 'frontend/user/home/Homeuser.dart'; 
 
 void main() {
   runApp(const MyApp());
@@ -12,11 +12,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Herbal App',
-      debugShowCheckedModeBanner: false, // Removes the debug banner
+      debugShowCheckedModeBanner: false, 
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
-      home: const HomeUser(), // Sets HomeUser as the starting screen
+      home: const HomeUser(), 
     );
   }
 }
